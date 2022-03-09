@@ -1,3 +1,6 @@
+# TA07-11SRWA
+[Datasheet](https://www.mouser.com/datasheet/2/216/TA07-11SRWA-54203.pdf)
+
 ## BOARDLAYOUT ##
 ```
 [1]   0    | · · · · · |  1       [7]
